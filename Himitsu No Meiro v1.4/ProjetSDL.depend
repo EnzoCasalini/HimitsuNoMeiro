@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1624191357 source:c:\users\enzoc\documents\cours\langage c\projetsdl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<SDL.h>
+	<SDL_image.h>
+	"constantes.h"
+
+1622384926 c:\users\enzoc\documents\cours\langage c\projetsdl\constantes.h
+
+1624191357 source:c:\users\enzoc\desktop\projetsdl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<SDL.h>
+	<SDL_image.h>
+	"constantes.h"
+
+1622384926 c:\users\enzoc\desktop\projetsdl\constantes.h
+
