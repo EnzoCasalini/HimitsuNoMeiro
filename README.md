@@ -5,7 +5,8 @@ Totalement fonctionnel et réalisé à l'aide de la bibliothèque SDL2, ce jeu m
 
 ## But du jeu
 
-Le but de ce jeu est de s'échapper du labyrinthe en appuyant sur les boutons qui éteindront certains feux 🔥. 
+Le but de ce jeu est de s'échapper du labyrinthe en appuyant sur les boutons qui éteindront certains feux 🔥.
+
 ⚠️ Il y a des boutons pièges et plusieurs épreuves à réaliser...
 
 ## Screenshots 
